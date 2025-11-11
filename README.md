@@ -12,3 +12,5 @@ it is easy to run for quick health checks
 
 -REQUIREMENTS
 -psutil library (to install it, PIP INSTALL PSUTIL)
+
+https://github.com/franklynmbongeni/server_perf_check.git
